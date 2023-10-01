@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Документы\GitHub\testRepozitoriy\testRepozitoriy\bin\Debug\net7.0\testRepozitoriy.exe
+C:\Users\Dell\OneDrive\Документы\GitHub\testRepozitoriy\testRepozitoriy\bin\Debug\net7.0\testRepozitoriy.deps.json
+C:\Users\Dell\OneDrive\Документы\GitHub\testRepozitoriy\testRepozitoriy\bin\Debug\net7.0\testRepozitoriy.runtimeconfig.json
+C:\Users\Dell\OneDrive\Документы\GitHub\testRepozitoriy\testRepozitoriy\bin\Debug\net7.0\testRepozitoriy.dll
+C:\Users\Dell\OneDrive\Документы\GitHub\testRepozitoriy\testRepozitoriy\bin\Debug\net7.0\testRepozitoriy.pdb
+C:\Users\Dell\OneDrive\Документы\GitHub\testRepozitoriy\testRepozitoriy\obj\Debug\net7.0\testRepozitoriy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Документы\GitHub\testRepozitoriy\testRepozitoriy\obj\Debug\net7.0\testRepozitoriy.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Документы\GitHub\testRepozitoriy\testRepozitoriy\obj\Debug\net7.0\testRepozitoriy.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Документы\GitHub\testRepozitoriy\testRepozitoriy\obj\Debug\net7.0\testRepozitoriy.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Документы\GitHub\testRepozitoriy\testRepozitoriy\obj\Debug\net7.0\testRepozitoriy.dll
+C:\Users\Dell\OneDrive\Документы\GitHub\testRepozitoriy\testRepozitoriy\obj\Debug\net7.0\refint\testRepozitoriy.dll
+C:\Users\Dell\OneDrive\Документы\GitHub\testRepozitoriy\testRepozitoriy\obj\Debug\net7.0\testRepozitoriy.pdb
+C:\Users\Dell\OneDrive\Документы\GitHub\testRepozitoriy\testRepozitoriy\obj\Debug\net7.0\testRepozitoriy.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Документы\GitHub\testRepozitoriy\testRepozitoriy\obj\Debug\net7.0\ref\testRepozitoriy.dll
